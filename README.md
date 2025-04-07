@@ -12,3 +12,4 @@ Delaware Public Archives - Dover, Delaware
 U.S. Air Force Reserve - Dover AFB, Delaware
 Wawa - Milford, Delaware
 
+[awesome-digital-preservation](https://github.com/digipres/awesome-digital-preservation)
